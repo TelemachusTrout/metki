@@ -1,6 +1,5 @@
-<body style="background-size: 1100px; background-image: url(https://raw.githubusercontent.com/TelemachusTrout/metki/gh-pages/leaves.png)">
+<div style="background-size: 1100px; background-image: url(https://raw.githubusercontent.com/TelemachusTrout/metki/gh-pages/leaves.png)">
 <div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">МЕТКИ</div>
-
 *   [a vogel - бренды iherb](https://nobellarezi.livejournal.com/tag/a%20vogel%20-%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20iherb)
 *   [acure organics - бренды iherb](https://nobellarezi.livejournal.com/tag/acure%20organics%20-%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20iherb) - 4
 *   [advanced clinicals - бренды iherb](https://nobellarezi.livejournal.com/tag/advanced%20clinicals%20-%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20iherb) - 10
@@ -288,4 +287,4 @@
 *   [Япона-мать](https://nobellarezi.livejournal.com/tag/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B0-%D0%BC%D0%B0%D1%82%D1%8C) - 62
 *   [из Facebook](https://nobellarezi.livejournal.com/tag/%D0%B8%D0%B7%20Facebook) - 7
 *   [экзема](https://nobellarezi.livejournal.com/tag/%D1%8D%D0%BA%D0%B7%D0%B5%D0%BC%D0%B0)
-</body>
+</div>
