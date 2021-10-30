@@ -1,8 +1,8 @@
 <body link="#b51d48" style="
-                            font-size: 2em; 
+                            font-size: 1em; 
                             font-family: serif; 
-                            
-                            background-size: 1100px; 
+                       
+                            background-size: 500px; 
                             background-image: url(leaves.png);">
 <div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">МЕТКИ</div>
 <ul>
