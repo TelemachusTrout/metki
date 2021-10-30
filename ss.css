@@ -1,4 +1,7 @@
-header, footer {
+header {
 display: none;
 }
 
+footer {
+display: none;
+}
