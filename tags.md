@@ -1,4 +1,4 @@
-<body link="#b51d48" style="background-color: #ededf7; font-size: 2em; font-family: serif; background-color: rgba(46, 31, 163, 0.9); background-size: 1100px; background-image: url(https://raw.githubusercontent.com/TelemachusTrout/metki/gh-pages/leaves.png)">
+<body style="background-size: 1100px; background-image: url(https://raw.githubusercontent.com/TelemachusTrout/metki/gh-pages/leaves.png)">
 <div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">МЕТКИ</div>
 
 *   [a vogel - бренды iherb](https://nobellarezi.livejournal.com/tag/a%20vogel%20-%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20iherb)
