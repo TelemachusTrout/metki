@@ -5,7 +5,7 @@
                             font-size: 1em; 
                             font-family: serif; 
                        
-                            background-size: 500px; 
+                            background-size: 100px; 
                             background-image: url(food.png);">
 <div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">Food Inspection</div>
 <ul>
