@@ -1,7 +1,7 @@
-<body link="#b51d48" style="background-color: #ededf7;
+<body link="#b51d48" style="
                             font-size: 2em; 
                             font-family: serif; 
-                            background-color: rgba(46, 31, 163, 0.9); 
+                            
                             background-size: 1100px; 
                             background-image: url(leaves.png);">
 <div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">МЕТКИ</div>
