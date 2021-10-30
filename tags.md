@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="ss.css">
+  </head>
 <body link="#b51d48" style="
                             font-size: 1em; 
                             font-family: serif; 
