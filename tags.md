@@ -1,3 +1,9 @@
+<body link="#b51d48" style="background-color: #ededf7;
+                            font-size: 2em; 
+                            font-family: serif; 
+                            background-color: rgba(46, 31, 163, 0.9); 
+                            background-size: 1100px; 
+                            background-image: url(metki/leaves.png);">
 <div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">МЕТКИ</div>
 <ul>
 <li><a href="https://nobellarezi.livejournal.com/tag/a%20vogel%20-%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20iherb">a vogel - бренды iherb</a></li>
@@ -288,3 +294,4 @@
  <li><a href="https://nobellarezi.livejournal.com/tag/%D0%B8%D0%B7%20Facebook">из Facebook</a></li> - 7
  <li><a href="https://nobellarezi.livejournal.com/tag/%D1%8D%D0%BA%D0%B7%D0%B5%D0%BC%D0%B0">экзема</a></li>
  </ul>
+</body>
