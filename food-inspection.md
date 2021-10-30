@@ -7,7 +7,7 @@
                        
                             background-size: 100px; 
                             background-image: url(food.png);">
-<div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">Food Inspection</div>
+<div style="color: #b51d48; padding:20px; text-align: center; font-size: 1.5em; font-weight: bold;">🍕 Food Inspection</div>
 <ul>
 <li><a href="https://food-inspection.livejournal.com/tag/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0%D0%BD%D1%8B" title="1 запись, friends">Баклажаны</a></li>
   <li><a href="https://food-inspection.livejournal.com/tag/%D0%91%D0%BB%D0%B8%D0%BD%D1%8B" title="1 запись, friends">Блины</a></li>
